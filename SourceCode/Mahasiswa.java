@@ -12,7 +12,6 @@ public class Mahasiswa {
     }
 
     void tampilData(){
-        System.out.println("=== DATA MAHASISWA ===");
         System.out.println("NIM:    " + nim + " |   Nama:   " + namaMahasiswa);
     }
 }

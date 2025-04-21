@@ -14,7 +14,6 @@ public class MataKuliah {
     }
 
     void tampilData(){
-        System.out.println("=== DATA MATA KULIAH ===");
         System.out.println("Kode MK:    " + kodeMK + "  |   Nama:   " + namaMK + "  |   SKS:    " + sks);
     }
 }
